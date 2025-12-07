@@ -1,21 +1,14 @@
-# Assistive-Vision-
-Assistive vision for visually impaired
-Adaptive vision technology comprises a range of devices and systems that aid individuals with visual impairments, enhancing their ability to interact with their surroundings. These technologies use optical, digital, and AI-based solutions to improve accessibility and independence.
+# Virtual Assistant
+It is a virtual assistant for visually impaired which include models like face recognition, object detection, text to speech, speech recognition. The idea behind this project is to host this website and use it from mobile phones and therefore the website's UI is designed according to mobile phones.
 
-Key examples include:
+### Requirements and usage 
+* Clone this repository using :- `git clone https://github.com/Deimos-M/DL-Virtual-Assistant.git`
+* Install dependencies using :- `pip install -r requirements.txt`
+* Downlaod Tiny yolo pre-trained model from here :- <a href="https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo-tiny.h5">**Download**</a> 
+* Run the application using :- `python App.py`
+* Once the link appears, open it in your web browser and do either of the following  :- 
+    * Press `ctrl+shift+M` in Mozilla.
+    * Press `F12` then `ctrl+shift+M` in Chrome.
 
-Screen Readers and Magnifiers: Software like JAWS and NVDA converts text to speech or Braille, enabling users to access digital content. Screen magnifiers, such as ZoomText, enlarge text and images on screens, aiding those with low vision.
+Note :- This website runs on the local machine and is not yet hosted on the internet. (:-|)
 
-Wearable Devices: Smart glasses like eSight use high-resolution video to enhance residual vision, while devices like OrCam MyEye attach to regular glasses to recognize and audibly describe text, faces, and objects in real-time.
-
-Mobile Apps: Seeing AI, a Microsoft app, employs AI to narrate the visual world, describing people, text, and objects around the user. Be My Eyes connects visually impaired individuals with sighted volunteers through video calls for real-time assistance with various tasks.
-
-Braille Technology: Refreshable Braille displays convert digital text into Braille characters, allowing blind users to read and interact with digital content. Braille notetakers combine Braille input and output with computing functions, facilitating note-taking and information management.
-
-Navigation Aids: GPS-based devices like Trekker Breeze and apps like BlindSquare provide audio navigation assistance, helping users navigate streets and public transportation. Cane sensors like WeWalk detect obstacles above ground level and provide vibration feedback to enhance mobility.
-
-Artificial Vision Systems: Retinal implants such as the Argus II partially restore vision by converting video images into electrical signals that stimulate the retina. Brainport translates visual information into tactile sensations on the tongue, which the brain learns to interpret as visual input.
-
-Home Assistance Technologies: Voice-activated assistants like Amazon Echo and Google Home allow visually impaired users to control smart home devices, manage tasks, and access information through voice commands.
-
-Adaptive vision technology significantly enhances the independence, safety, and quality of life for visually impaired individuals, enabling them to perform daily tasks, navigate their environment, and access information more effectively.
